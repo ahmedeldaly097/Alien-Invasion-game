@@ -1,2 +1,3 @@
 # Alien-Invasion
-Alien Ivasion
+Alien Ivasion is a game developed by a python -> pygame.
+
