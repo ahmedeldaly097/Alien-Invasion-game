@@ -15,11 +15,7 @@ aliens programmed to move in two directions **X** and **Y**.
 
 ![image](https://user-images.githubusercontent.com/111642557/197077714-e76adb58-5978-4ab7-905e-81bcb00f5e7b.png)
 
-
-
 https://user-images.githubusercontent.com/111642557/198086627-cfc4e036-8cd1-4940-ae8d-06f0ed12a1a2.mp4
-
-
 
 ## Installing Pygame
 if you need to run this game you need to install **Pygame** and it's easy if you you are using PyCharm. You can add this package from Python Interpreter directly to your application and this will make the game run without any errors.
